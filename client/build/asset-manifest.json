@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21dd787b.css",
+    "main.js": "/static/js/main.b810e4c2.js",
+    "static/js/787.ea322a67.chunk.js": "/static/js/787.ea322a67.chunk.js",
+    "static/media/image1.jpg": "/static/media/image1.5b4d4c63b3aa5606bcdd.jpg",
+    "static/media/ameli.jpg": "/static/media/ameli.4d9b3a23d681d569c740.jpg",
+    "static/media/project4.jpg": "/static/media/project4.879ec0349e1f26bf5671.jpg",
+    "static/media/raz.jpeg": "/static/media/raz.66cd401fa3ddde04c788.jpeg",
+    "static/media/project.jpg": "/static/media/project.9fd0a3f7da55b8ff611d.jpg",
+    "static/media/bg.png": "/static/media/bg.11ec49ded950954ccfde.png",
+    "static/media/bg-donut-1.png": "/static/media/bg-donut-1.ab7aed90048cf0d558e5.png",
+    "static/media/bg-donut-2.png": "/static/media/bg-donut-2.77a55b8022da41cd8f46.png",
+    "static/media/project2.avif": "/static/media/project2.1ed320f67790494bb8ab.avif",
+    "static/media/and.jpg": "/static/media/and.827117bd393409cce092.jpg",
+    "static/media/pic-3.jpg": "/static/media/pic-3.ff65ac8bc1502f57f776.jpg",
+    "static/media/project3.avif": "/static/media/project3.16c49d35ef7eeb378557.avif",
+    "static/media/pic-1.jpg": "/static/media/pic-1.09f02ef8ae4730c3235f.jpg",
+    "static/media/pic-2.jpg": "/static/media/pic-2.a2cd783a6cf9e192c37e.jpg",
+    "index.html": "/index.html",
+    "main.21dd787b.css.map": "/static/css/main.21dd787b.css.map",
+    "main.b810e4c2.js.map": "/static/js/main.b810e4c2.js.map",
+    "787.ea322a67.chunk.js.map": "/static/js/787.ea322a67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21dd787b.css",
+    "static/js/main.b810e4c2.js"
+  ]
+}
